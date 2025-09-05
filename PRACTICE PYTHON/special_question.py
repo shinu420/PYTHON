@@ -84,4 +84,4 @@ while True:
     else:
         print("try between (1-50) for great chance")
     #break
-print("hello")
+print("hello!")
